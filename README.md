@@ -1,2 +1,2 @@
-# JupitaAcademyClass
-Assignments for Jupita Academy Data Science Course
+# Python practice
+
